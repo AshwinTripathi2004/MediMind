@@ -4,7 +4,7 @@ MediMind is a web-based AI chatbot designed to analyze medical images and answer
 
 ---
 
-## 🚀 Features
+## 🚀 Features 
 
 - 📤 Upload medical images (X-rays, scans, etc.)
 - 💬 Ask health-related questions about the image
